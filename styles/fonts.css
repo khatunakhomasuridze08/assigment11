@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Helvetica Neue rg';
+    src: url(../fonts/HelveticaNeueRegular.ttf) format('truetype'),
+         url(../fonts/HelveticaNeueRegular.woff) format('woff'),
+         url(../fonts/HelveticaNeueRegular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue bl';
+    src: url(../fonts/HelveticaNeueBold.ttf) format('truetype'),
+    url(../fonts/HelveticaNeueBold.woff) format('woff'),
+    url(../fonts/HelveticaNeueBold.woff2) format('woff2');
+}
